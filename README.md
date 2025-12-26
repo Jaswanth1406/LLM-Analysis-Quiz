@@ -1,21 +1,3 @@
----
-title: Autonomous Quiz Solver Agent
-emoji: 🤖
-colorFrom: purple
-colorTo: pink
-sdk: docker
-pinned: false
-app_port: 7860
-short_description: AI agent solving data science quizzes autonomously
-tags:
-  - langchain
-  - langgraph
-  - ai-agent
-  - autonomous-agent
-  - data-science
-  - gemini
-suggested_hardware: cpu-basic
----
 # 🤖 Autonomous Quiz Solver Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -499,3 +481,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Institution**: IIT Madras
 
 For questions or issues, please open an issue on the [GitHub repository](https://github.com/23f2003886/TDS-PROJECT-2).
+
